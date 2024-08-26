@@ -1,0 +1,12 @@
+{
+	"name": "pavex/css-url-data",
+	"type": "library",
+	"bin": ["bin/css-url-data.php", "bin/scss-url-data.php"],
+	"authors": [
+		{
+			"name": "pavex",
+			"email": "pavex@ines.cz"
+		}
+	],
+	"minimum-stability": "dev"
+}
